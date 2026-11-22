@@ -1,6 +1,6 @@
 @echo off
 title Quartz Sync
-cd /d "R:\Google Drive\Obsidian Files\quartz"
+cd /d "R:\quartz"
 
 echo ============================
 echo       Syncing Quartz
