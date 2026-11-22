@@ -1,745 +1,757 @@
 # LOS
 
-The basic idea with Los is that it is a city that has essentially become one enormous project.
+## The Floating City
 
-The entire purpose of the city is the Continuance, the construction of the Mechanus and eventually the creation of Primus. Everyone in the city has some role in this, whether they are directly involved in the construction, providing food and resources, defending the city, researching new technologies or simply keeping the whole thing running.
+Los is a city unlike anything else in the world.
 
-The important thing is that Los is not necessarily an evil or authoritarian city. It is a city that is **desperate**.
+It is enormous, a city so large that entire regions of it can pass beneath you without you ever seeing the other side. It floats high above the world, travelling through the skies while its enormous mechanical systems keep the city moving and stable.
 
-The Spine has shown them what Hellus is capable of, and they genuinely believe that if they do not complete the Mechanus, everyone is going to die.
+Los was not built simply to be a place to live.
 
-This means almost every questionable decision can be justified with the same argument:
+It was built for a purpose.
 
-> "People are dying. We do not have time for this."
+Following the destruction caused by the Spine, the city became one of the greatest centres of research, engineering and military strategy in the known world. Its people are working towards one goal:
 
-The problem is that the project has been going on for so long that temporary measures have become normal.
+> **The Continuance.**
+
+The Continuance is the construction of the **Mechanus**, an enormous machine designed to imprison Hellus and prevent the Hells from ever threatening the world again.
+
+Almost everyone in Los contributes to this in some way.
+
+Some build the machine.
+
+Some research how it works.
+
+Some gather the materials.
+
+Some provide food and water.
+
+Some defend the city.
+
+Some simply keep everything running.
+
+Los exists because everyone believes that if the Mechanus is not completed, Hellus will eventually destroy everything.
 
 ---
 
-# THE ONE ABOVE HAVEN
+# THE CITY
 
-This is where the Council of Mackerbia sits.
+Los is divided into several enormous layers.
 
-The Council is made up of representatives from the surviving elven houses, with the Shadar-Kai having a huge amount of influence following the destruction caused by the Spine.
+Each layer serves a different purpose, and although the city is technically one civilisation, there is a very noticeable difference between the people who live in each.
 
-This is essentially the political and administrative centre of Los. The people here aren't directly involved in building the Mechanus, they are responsible for making sure the city continues moving towards its goal.
+## The One Above Haven
 
-I want this area to feel very different from the rest of Los.
+The highest inhabited section of Los.
 
-It is old elven architecture, beautiful buildings, gardens, marble, silver, relics from the old world and all the wealth that comes with being at the top of the city.
+This is where the **Council of Mackerbia** governs the city.
 
-It should almost feel like a piece of the civilization that existed before the Spine was preserved above the rest of the city.
+The Council is made up of representatives from the surviving elven houses and holds enormous political power over Los.
 
-The contrast is important.
+The One Above Haven is also where much of the city's wealth and political influence is concentrated.
 
-Below them, people are working themselves to death to keep Los alive.
+It is one of the few parts of Los that still resembles the old elven civilisation that existed before the Spine.
 
-Above them, the Council sits surrounded by reminders of what they are supposedly trying to save.
+Expect grand architecture, gardens, ancient relics, beautiful halls and families who have lived with wealth and influence for generations.
 
-## The Council of Mackerbia
-
-The Council itself does not manage the city directly. Instead, it has seven High Seats beneath it, each responsible for a major part of Los.
-
-### High Seat of War
-
-Responsible for the armies, military intelligence, weapons production, defensive fleets, expeditionary forces, recruitment and counter-infernal operations.
-
-The main argument within this department is that the Mechanus is useless if Los gets destroyed before it is finished.
-
-This means they constantly want more resources for weapons and soldiers, while the engineers want those same resources for the Mechanus.
-
-### High Seat of Provision
-
-Responsible for food, water, agriculture, livestock, trade, rationing and the general distribution of resources.
-
-This is probably one of the most important offices in the city, even if people in Haven don't appreciate it.
-
-If Provision fails, Los dies.
-
-### High Seat of Industry
-
-Responsible for turning raw materials into the things Haven needs.
-
-Foundries, mills, machine shops, construction, metallurgy, crystal processing, arcane fabrication and waste management all fall under this office.
-
-This office effectively controls a huge part of the city's economy because it determines which projects get the resources and production capacity they need.
-
-### High Seat of Arcana
-
-Responsible for magical research.
-
-This includes spellcraft, enchantment, planar studies, divine energy, souls, artificial consciousness, necromancy, celestial energy and infernal energy.
-
-This is one of the more dangerous departments because they are starting to discover that the Mechanus isn't simply a machine.
-
-It needs something to power it.
-
-It needs something to give it purpose.
-
-And eventually they are going to start asking whether it needs a soul.
-
-### High Seat of the Mechanus
-
-This is probably the most prestigious position in the city.
-
-This person oversees the actual construction of the Mechanus and all the major research surrounding it.
-
-Under this High Seat are the departments dealing with the physical construction of the machine, Modron creation, divine engineering, the Core, the Divine Lattice and eventually Primus himself.
-
-The basic question being asked here is:
-
-> "How do we manufacture a god?"
-
-### High Seat of Civic Order
-
-Responsible for law enforcement, courts, citizenship, immigration, identification, public works, internal security and movement between the different levels of Los.
-
-This is also the department that increasingly starts monitoring people for signs of sabotage, dissent and infernal influence.
-
-### High Seat of Continuance
-
-This is the secretive one.
-
-Officially, this department doesn't exist.
-
-In reality, it is responsible for making sure that nothing interferes with the Continuance.
-
-They investigate sabotage, corruption, infernal infiltration, cults, espionage, treason and anything else that could threaten the project.
-
-The important question here is how far they are willing to go.
+The Council oversees the city's major institutions and makes decisions concerning the Continuance, the military, resources and the future of Los.
 
 ---
 
 # HAVEN
 
-## The Brain of Los
+### The intellectual heart of Los
 
-Haven is roughly the size of London and is where the scholars, politicians, engineers, artificers and researchers live.
+Haven is roughly the size of London and is where most of the city's scholars, engineers, artificers, politicians and researchers live.
 
-This is the heart of the technological progress of Los.
+This is where the greatest technological advances in Los are made.
 
-I want Haven to feel like a mixture of a university, government capital, research facility and industrial centre.
+Magic and machinery are used alongside one another throughout Haven, and it is common to see enormous laboratories, workshops and research facilities operating alongside universities, government buildings and residential districts.
 
-There are entire districts dedicated to different areas of research.
+Much of the work surrounding the Mechanus happens here.
 
-Factories are built into universities.
+Haven is also where many of the city's most important organisations are based.
 
-Laboratories take up entire buildings.
+There are departments dedicated to the construction of the Mechanus, the production of Modrons, magical research, energy production and the study of whatever will eventually control the machine.
 
-Engineers and scholars live alongside politicians because they are all ultimately working towards the same thing.
-
-The biggest areas of Haven are the various Directorates.
-
-## Directorate of Mechanism
-
-This is responsible for actually building the Mechanus.
-
-Underneath it are several departments.
-
-**Department of Architecture:** designs the physical structure of the Mechanus.
-
-**Department of Materials:** works out what the Mechanus needs to be made from.
-
-**Department of Precision:** makes all of the incredibly precise mechanical components.
-
-**Department of Arcane Integration:** works out how to combine magic and machinery.
-
-**Department of Planar Engineering:** studies how the Mechanus can interact with the planes.
-
-The Planar Engineering department is especially important because they are trying to figure out how to physically imprison Hellus.
-
-There is a growing theory that Hell cannot simply be locked away.
-
-It may have to be connected to something else.
-
----
-
-# DIRECTORATE OF MODRON PRODUCTION
-
-The Modrons are initially just supposed to be machines that maintain the Mechanus.
-
-Over time, they become much more important.
-
-This Directorate is responsible for designing and producing them.
-
-It contains:
-
-**Modron Design Bureau:** designs the different types of Modrons.
-
-**Logic Department:** develops their reasoning and decision-making systems.
-
-**Soul Integration Office:** investigates whether Modrons actually need souls.
-
-**Obedience Bureau:** makes sure Modrons follow their assigned hierarchy.
-
-**Behavioural Laboratory:** studies whether Modrons can develop independent thought.
-
-Officially, they cannot.
-
-The private research is starting to suggest otherwise.
-
-**Modron Foundries:** mass production.
-
-**Testing Yards:** where new Modrons are tested.
-
-**Ascension Laboratory:** investigates whether increasingly complex Modrons can be created.
-
-This is where the beginnings of the eventual Modron hierarchy come from.
-
----
-
-# DIRECTORATE OF PRIMUS
-
-This is the department that I want to be increasingly secretive as the campaign progresses.
-
-The Mechanus is one thing.
-
-Primus is another.
-
-The Directorate of Primus exists to answer the question of what the intelligence at the centre of the Mechanus actually needs to become.
-
-They study:
-
-- Artificial consciousness
-    
-- Divine consciousness
-    
-- Souls
-    
-- Godhood
-    
-- Worship
-    
-- Divine domains
-    
-- Cosmic law
-    
-- Ascension
-    
-- Collective belief
-    
-
-The researchers have eventually reached the conclusion that the Mechanus cannot function properly without a central intelligence.
-
-They call this theoretical intelligence:
-
-**Primus.**
-
-At this point, Primus doesn't necessarily exist.
-
-The name is just a designation.
-
-But then the Modrons start using the name.
-
-Then the name starts appearing in documents that nobody remembers writing.
-
-Then the Mechanus starts responding to it.
-
----
-
-# THE DIVINE LATTICE
-
-The Divine Lattice is the system designed to connect the Mechanus, Modrons, worship and divine energy.
-
-The theory is that an artificial being can become divine if enough energy and belief are channelled into it.
-
-One Modron obviously cannot become a god.
-
-Ten thousand probably can't either.
-
-But what happens when there are millions?
-
-This is where I want the question of Primus to become really interesting.
-
-Are the Modrons creating Primus?
-
-Or is Primus somehow creating the Modrons?
-
----
-
-# DIRECTORATE OF FUEL
-
-This is one of the most important departments in Los.
-
-The city itself requires an enormous amount of power just to stay airborne.
-
-The Mechanus requires even more.
-
-Primus will require something on an entirely different scale.
-
-The Directorate of Fuel is therefore responsible for finding, processing, storing and distributing every form of energy used by Los.
-
-The main departments are:
-
-**Aquatic Energy Office:** hydraulic power and water-based energy systems.
-
-**Arcane Fuel Office:** magical crystals, condensed ley energy and other magical materials.
-
-**Elemental Furnace Authority:** controls the elemental beings used as industrial power sources.
-
-**Celestial Energy Office:** investigates and harvests energy from surviving celestial relics and fragments of Celestia's destroyed territories.
-
-**Soul Furnace Division:** investigates whether spiritual energy can be converted into usable power.
-
-This department is supposed to be experimental.
-
-It probably isn't anymore.
-
-**Infernal Containment Division:** studies energy extracted from infernal artefacts.
-
-Officially, this energy is too dangerous to use.
-
-Unofficially, Los has probably already started using it.
-
-That is a problem.
-
----
-
-# THE GREAT FUEL RESERVOIR
-
-Deep inside Los is the Great Fuel Reservoir.
-
-This is basically the city's giant battery.
-
-It stores the various forms of energy required by the city and the Mechanus.
-
-I like the idea of the Reservoir being split into several massive containment chambers, each holding a different type of fuel.
-
-If one fails, parts of Los lose power.
-
-If several fail, the city could start losing altitude.
-
-If the central chamber fails while the Mechanus is active, nobody really knows what happens.
-
-This makes the Fuel Directorate incredibly important.
-
-It also makes it incredibly corruptible.
-
----
-
-# DIRECTORATE OF WORSHIP
-
-This is something that probably starts off fairly harmless and becomes increasingly disturbing.
-
-Originally, the Council doesn't think Primus needs to be worshipped.
-
-Then they discover that divine power appears to require belief.
-
-So they create a department to prepare the people of Los.
-
-At first, the message is:
-
-> "The Mechanus will save us."
-
-Then:
-
-> "The Mechanus will protect us."
-
-Then:
-
-> "The Mechanus will guide us."
-
-Eventually:
-
-> "The Mechanus will know what is right."
-
-The Directorate insists that this isn't a religion.
-
-It is becoming one.
+The people of Haven tend to believe that **knowledge is the most important resource Los possesses.**
 
 ---
 
 # THE UPPER RIM
 
-## The Hands of Los
+### The working and adventuring districts
 
-The Upper Rim is roughly M25 sized and is where the majority of the city's adventurers, labourers, soldiers, mechanics, merchants, builders and craftspeople live.
+The Upper Rim surrounds Haven and is roughly M25 sized.
 
-These people aren't considered useless.
+This is where many of the city's labourers, adventurers, soldiers, mechanics, merchants and craftspeople live.
 
-They are considered replaceable.
+It is considerably more chaotic than Haven.
 
-This is where the people who keep Los physically running live.
+Markets, workshops, taverns, barracks and warehouses are everywhere, and this is where most people coming into Los from the world below will first find themselves.
 
-It is also where most of the city's adventurers are recruited.
+The Upper Rim is also where many expeditions begin.
 
-The Rim should feel busy, rough and alive compared to Haven.
+Los cannot produce everything it needs itself, so adventurers and expeditionary groups regularly travel into the world below to retrieve resources, investigate ruins, recover lost technology and search for anything else that could help the city.
 
-Markets, workshops, taverns, barracks, warehouses and transport hubs everywhere.
-
-This is where people from the world below arrive and where adventurers return with stories about what is happening beneath the clouds.
-
-## Expeditionary Authority
-
-This is basically the adventurer's guild, military recruitment organisation and resource-gathering arm of Los combined.
-
-They send expeditions below the city to find:
-
-- Metals
-    
-- Magical crystals
-    
-- Ancient technology
-    
-- Food
-    
-- Water
-    
-- Elven relics
-    
-- Celestial artefacts
-    
-- Infernal weapons
-    
-- Lost knowledge
-    
-- Potential recruits
-    
-
-This is an easy way to bring the players into the wider story.
-
-They can be given jobs by the Expeditionary Authority that initially seem completely unrelated to the Mechanus, only for them to slowly realise that everything they are doing ultimately feeds the project.
-
-## Recruitment Bureau
-
-Los needs people.
-
-Constantly.
-
-The Spine destroyed entire civilizations, while the city keeps growing and the Mechanus requires more workers, soldiers and researchers.
-
-The Recruitment Bureau therefore travels into the world below and tries to convince people to move to Los.
-
-The propaganda is something like:
-
-> "Safety above the clouds. Purpose among the greatest minds of the age. A place in the salvation of the world."
-
-Whether that is actually true is another question.
+If you want to make a living as an adventurer in Los, this is probably where you will start.
 
 ---
 
 # THE PLATE
 
-## The Stomach of Los
+### The part that keeps everyone alive
 
-The Plate is the largest section of the city.
+The Plate is the largest section of Los.
 
-This is where the crops are grown and where the raw industries are kept.
+It is where much of the city's food is produced and where many of its raw industries are located.
 
-Cattle, livestock, agriculture, refineries, water processing, raw material processing and large-scale manufacturing all happen here.
+Huge agricultural areas stretch across the Plate, alongside livestock farms, refineries, factories, water-processing facilities and resource-processing plants.
 
-It is probably the least glamorous part of Los.
+Los regularly needs to collect water from the world below, with enormous mechanical systems capable of collecting and processing water for drinking, farming and industrial use.
 
-It is also the part that actually keeps everyone alive.
+The Plate is not particularly glamorous.
 
-## Department of Agriculture
+It is, however, incredibly important.
 
-Responsible for crops, livestock, soil, fertiliser, seed banks and food production.
+Without the Plate, Haven cannot build anything.
 
-Some crops will have been specifically engineered to survive in the environment of a flying city.
+Without the Plate, the Upper Rim cannot survive.
 
-Some might grow without normal sunlight.
-
-Some could absorb magical energy.
-
-Some might even be grown specifically because they can be converted into fuel.
-
-## Water Authority
-
-Los needs to regularly collect water from below.
-
-Huge mechanical scoops can be lowered from the city when it passes over oceans or other large bodies of water.
-
-The Water Authority then filters, purifies and distributes it.
-
-Water is split between civilian use, agriculture and industrial use.
-
-A serious water shortage would be one of the biggest crises the city could face.
-
-## Raw Materials Authority
-
-Responsible for ore, stone, timber, clay, salt, coal, magical crystals and other resources.
-
-This department works closely with the Expeditionary Authority because it decides which resources are actually worth sending people to retrieve.
-
-## Refineries
-
-The refineries take the raw resources gathered on the Plate and turn them into materials that Haven can use.
-
-This creates a major social divide.
-
-Haven thinks it is building the Mechanus.
-
-The Plate knows it is feeding the machine.
+Without the Plate, Los stops functioning.
 
 ---
 
 # THE ROCKS
 
-## The City Beneath the City
+### The city beneath the city
 
 The Rocks are the Undercity of Los.
 
-Officially, they aren't really supposed to exist.
-
-In reality, they are one of the most important parts of the city.
-
-The Rocks formed around all the things Los threw away.
+They exist beneath the main city and are made largely from the remnants of everything Los has discarded over the years.
 
 Broken machinery.
 
-Failed experiments.
-
 Old buildings.
 
-Obsolete infrastructure.
+Failed experiments.
+
+Obsolete technology.
 
 Scrap.
 
-Eventually people started living there.
+The Rocks have gradually become a place where people who no longer fit into the rest of Los end up.
 
-Then communities formed.
+Criminals, smugglers, disgraced officials, political dissidents, failed inventors, ex-soldiers and people who simply have nowhere else to go can all be found there.
 
-Then businesses.
+The Council does not officially recognise the Rocks as a proper part of the city.
 
-Then criminal organisations.
+The people living there don't particularly care.
 
-Now the Rocks have their own economy, politics and power structures.
+The Rocks have their own communities, businesses, criminal organisations and systems of power.
 
-This is where people end up when they fall out of the system.
+There is also a thriving black market.
 
-Disgraced officials.
-
-Failed inventors.
-
-Ex-soldiers.
-
-Political dissidents.
-
-Smugglers.
-
-Illegal immigrants.
-
-Exiled elves.
-
-People who simply don't fit into the increasingly rigid structure of Los.
-
-## The Guilds
-
-Criminal organisations controlling smuggling, protection, gambling, theft and black-market trade.
-
-## The Free Companies
-
-Mercenaries and adventurers who operate outside official authority.
-
-## The Scrap Lords
-
-People who control access to the valuable technology thrown away by Los.
-
-Some of them possess machines that Haven believes were destroyed years ago.
-
-## The Exiles
-
-Political dissidents who have started organising against the Council.
-
-Some want reform.
-
-Some want independence.
-
-Some just want revenge.
-
-## The Old Houses
-
-Elven families that lost political influence but still possess wealth, knowledge and connections.
-
-Some are legitimate remnants of the old world.
-
-Others are just aristocratic criminals.
-
-## The Infernalists
-
-A secretive group that believes Hellus cannot actually be defeated.
-
-Their basic philosophy is:
-
-> **"Why fight Hell when you can bargain with it?"**
+If something cannot be legally obtained in Los, there is a good chance someone in the Rocks can find it.
 
 ---
 
-# THE BLACK MARKET
+# THE MECHANUS
 
-Almost anything can be bought in the Rocks.
+The Mechanus is the greatest project Los has ever undertaken.
 
-Infernal artefacts.
+It is an enormous machine being constructed somewhere within Haven, although only certain people are permitted to see the majority of it.
 
-Stolen Modron components.
+Its intended purpose is simple:
 
-Forbidden magical texts.
+> **To imprison Hellus.**
 
-Illegal weapons.
+The actual process of achieving this is considerably more complicated.
 
-Counterfeit citizenship.
+The Mechanus combines engineering, magic, planar theory and technologies that have never existed before.
 
-Food.
+Thousands of people are involved in its construction.
 
-Water.
+Some believe it will simply be a prison.
 
-Information.
-
-Potentially even people.
-
-And, most importantly, pieces of the Mechanus.
-
-The Council publicly condemns the Rocks.
-
-Privately, certain people within the government rely on them.
-
-Smuggling, espionage, illegal experimentation and contact with foreign powers are all things the official government can deny while quietly benefiting from them.
+Others believe it could become something much more.
 
 ---
 
-# THE OVERALL GOVERNMENT
+# MODRONS
 
-The structure of Los is basically:
+One of the most visible signs of Los' technological progress is the creation of the **Modrons**.
 
-**Council of Mackerbia**
+Modrons are artificial beings created to assist with the construction and maintenance of the Mechanus.
 
+They are built in specialised facilities throughout Haven and are becoming increasingly sophisticated.
+
+Different Modrons perform different functions, and they operate according to strict hierarchies.
+
+Most people see them as machines.
+
+Some researchers believe there may be more to them than that.
+
+Exactly what the Modrons will eventually become is still a matter of debate.
+
+---
+
+# THE ENERGY PROBLEM
+
+Los requires an enormous amount of energy.
+
+The city itself requires power to remain airborne and operate its machinery.
+
+The Mechanus requires considerably more.
+
+As construction progresses, the amount of energy required continues to increase.
+
+Los therefore has entire organisations dedicated to finding, refining and distributing sources of energy.
+
+These include magical materials, elemental energy, celestial remnants and other sources that are considerably less straightforward.
+
+Energy is one of the city's most valuable resources.
+
+A shortage could affect everything from the city's ability to fly to the progress of the Mechanus.
+
+---
+
+# THE ELVEN HOUSES
+
+The surviving elven houses play a major role in the politics of Los.
+
+Following the destruction caused by the Spine, the fractured houses were forced to cooperate in ways they never had before.
+
+The Shadar-Kai have become particularly influential.
+
+Their goal is not simply to survive.
+
+They want Hellus brought under control.
+
+For some, the Mechanus is a means of protecting the world.
+
+For others, it may eventually become a weapon capable of taking the fight directly to Hellus.
+
+Not every house agrees on what Los should become.
+
+---
+
+# THE SPINE
+
+The Spine is the weapon that changed everything.
+
+The Lords of Hellus unleashed it against the homeland of Celestia's eldest children, completely annihilating it and tearing away much of the Shadow Moon.
+
+The exact nature of the Spine is not fully understood.
+
+What everyone knows is enough.
+
+**Hellus possesses a weapon capable of destroying civilisations.**
+
+That is why the Mechanus exists.
+
+That is why Los exists.
+
+And that is why the city is willing to sacrifice so much to complete it.
+
+---
+
+# WHAT PEOPLE IN LOS BELIEVE
+
+Most people in Los are not evil.
+
+They genuinely believe they are doing what is necessary to save the world.
+
+There are arguments about how the city should achieve its goal, but very few people question the goal itself.
+
+Hellus must be stopped.
+
+The Mechanus must be completed.
+
+Los must survive.
+
+Those three ideas have become deeply ingrained into the culture of the city.
+
+This has created a strange contradiction.
+
+Los is a place of incredible technological and magical progress, but it is also increasingly controlled by bureaucracy, resource shortages, political pressure and fear of infiltration.
+
+People are expected to contribute.
+
+People are expected to be useful.
+
+And when something threatens the Continuance, the justification is often simple:
+
+> **"People are dying. We do not have time."**
+
+---
+
+# WHAT YOU WOULD KNOW AS SOMEONE LIVING IN OR ARRIVING AT LOS
+
+You would probably know the following:
+
+- Los is one of the largest cities in the world.
+    
+- It is divided into several enormous layers.
+    
+- The Council of Mackerbia governs the city.
+    
+- The Shadar-Kai and surviving elven houses hold significant political influence.
+    
+- The Mechanus is being built to imprison Hellus.
+    
+- Modrons are being manufactured to assist with the Mechanus.
+    
+- Los requires huge amounts of resources and energy to continue functioning.
+    
+- The Plate produces much of the city's food and raw materials.
+    
+- The Upper Rim is where much of the city's working population and adventuring community lives.
+    
+- Haven is the centre of scholarship, politics and technological development.
+    
+- The Rocks are the city's criminal and unofficial underworld.
+    
+- The Spine destroyed an enormous part of the world.
+    
+- Everyone knows Hellus is a serious threat.
+    
+
+What you **wouldn't necessarily know** is what is actually happening at the highest levels of the Mechanus project.
+
+There are rumours.
+
+There are theories.
+
+There are people who claim they know what the Mechanus will eventually become.
+
+But nobody seems to agree.
+
+And somewhere in the middle of all of this is a name that is becoming increasingly difficult to ignore:
+
+> **Primus.**
+
+
+# HOW LOS IS GOVERNED
+
+Los is governed by the **Council of Mackerbia**, an assembly formed from the surviving elven houses and the powers that helped establish the city.
+
+The Council sits within **The One Above Haven**, where it determines the overall direction of Los and, most importantly, decides how the city's resources are used in pursuit of the **Continuance**.
+
+The Council does not directly manage the farms, factories, armies or research facilities of Los. Instead, authority is divided into a hierarchy:
+
+**Council of Mackerbia**  
 ↓  
-**Seven High Seats**
-
+**High Seats**  
 ↓  
-**Ministries**
-
+**Directorates**  
 ↓  
-**Directorates**
-
+**Departments**  
 ↓  
-**Departments**
-
+**Bureaus**  
 ↓  
-**Bureaus**
+**District Authorities**
 
-↓  
-**District Administrators**
+The Council decides what Los needs to accomplish, the High Seats oversee the major areas of government, and the Directorates organise the actual work required to achieve those goals.
 
-↓  
-**Guilds, Universities, Military Orders and Corporations**
+---
 
-↓  
+# THE COUNCIL OF MACKERBIA
+
+The Council is made up of representatives from the major surviving elven houses.
+
+Its main responsibilities are determining the city's overall direction, controlling the Continuance, approving major projects, allocating resources, managing relations between the elven houses, appointing the High Seats and making decisions concerning the military and the Mechanus.
+
+The Council is united around one fundamental belief:
+
+> **The Mechanus must be completed.**
+
+Beyond that, there is considerable disagreement.
+
+How quickly should it be completed? How many resources should be devoted to it? How much power should the military have? How much should ordinary citizens sacrifice? Should the Mechanus simply imprison Hellus, or should it be capable of destroying it?
+
+And perhaps most importantly:
+
+**What exactly is Primus supposed to be?**
+
+---
+
+# THE HIGH SEATS
+
+The Seven High Seats sit directly beneath the Council.
+
+Each High Seat is responsible for a major area of government and oversees several Directorates beneath it.
+
+### High Seat of War
+
+Responsible for the military, weapons, soldiers, military intelligence, expeditions and the defence of Los.
+
+### High Seat of Provision
+
+Responsible for food, water, agriculture, livestock, trade and the distribution of resources.
+
+### High Seat of Industry
+
+Responsible for manufacturing, construction, refineries, foundries and the processing of raw materials.
+
+### High Seat of Arcana
+
+Responsible for magical research, planar studies, magical resources and the interaction between magic and technology.
+
+### High Seat of the Mechanus
+
+Responsible for the construction of the Mechanus and all major research surrounding it.
+
+### High Seat of Civic Order
+
+Responsible for law enforcement, courts, citizenship, public works and maintaining order throughout Los.
+
+### High Seat of Continuance
+
+Responsible for protecting the Continuance itself, including investigating sabotage, corruption, espionage and infernal interference.
+
+The High Seats are not entirely independent. Major decisions require Council approval, but within their areas of authority they have considerable control over the city.
+
+---
+
+# THE DIRECTORATES
+
+The Directorates are where the government becomes much more practical.
+
+Each High Seat oversees several specialised Directorates, with each Directorate responsible for a particular part of Los' operation.
+
+These are large organisations with their own leadership, researchers, workers, budgets and internal politics.
+
+## HIGH SEAT OF WAR
+
+### Directorate of Military Affairs
+
+Oversees the day-to-day operation of the city's military.
+
+### Directorate of Expeditionary Forces
+
+Organises expeditions into the world below, including resource gathering, exploration, recruitment and recovery of lost technology.
+
+### Directorate of Military Intelligence
+
+Collects information about Hellus, rival powers, potential threats and activity within Los.
+
+### Directorate of Arms and Defence
+
+Responsible for weapons, armour, fortifications and the city's defensive systems.
+
+---
+
+# HIGH SEAT OF PROVISION
+
+### Directorate of Agriculture
+
+Oversees crops, livestock, farming and food production throughout the Plate.
+
+### Directorate of Water
+
+Responsible for collecting, purifying, storing and distributing water.
+
+### Directorate of Resource Distribution
+
+Determines where food, materials and other essential resources are sent throughout Los.
+
+### Directorate of Trade
+
+Controls internal and external trade, merchants, major contracts and the movement of valuable resources.
+
+---
+
+# HIGH SEAT OF INDUSTRY
+
+### Directorate of Manufacturing
+
+Oversees factories, workshops and general production.
+
+### Directorate of Refinement
+
+Processes raw materials into usable metals, crystals, chemicals and other industrial resources.
+
+### Directorate of Construction
+
+Responsible for buildings, infrastructure, repairs and expansion of the city.
+
+### Directorate of Industrial Standards
+
+Ensures that machinery, materials and manufactured goods meet the standards required by Los.
+
+This Directorate also has a reputation for being extremely bureaucratic.
+
+---
+
+# HIGH SEAT OF ARCANA
+
+### Directorate of Magical Research
+
+Oversees general magical experimentation and research.
+
+### Directorate of Planar Studies
+
+Studies the planes and how they interact with Los and the Mechanus.
+
+### Directorate of Celestial Research
+
+Studies the remnants of Celestia and attempts to understand and utilise surviving celestial energies.
+
+### Directorate of Infernal Research
+
+Studies Hellus, infernal magic and the nature of the Hells.
+
+Officially, this is purely defensive research.
+
+Nobody is entirely convinced.
+
+### Directorate of Arcane Integration
+
+Works alongside Industry and the Mechanus project to combine magic with machinery.
+
+---
+
+# HIGH SEAT OF THE MECHANUS
+
+This is where the most important Directorates for the campaign sit.
+
+### Directorate of Mechanism
+
+Responsible for the physical construction of the Mechanus.
+
+It contains the Architecture Department, Materials Department, Precision Department, Arcane Integration Department and Planar Engineering Department.
+
+### Directorate of Modron Production
+
+Responsible for creating the Modrons.
+
+It contains the Modron Design Department, Logic Department, Soul Integration Department, Behavioural Department, Testing Department and Production Department.
+
+### Directorate of Primus
+
+Responsible for research into the intelligence that will eventually control the Mechanus.
+
+It studies artificial consciousness, divine consciousness, souls, godhood, worship, cosmic law and ascension.
+
+### Directorate of Divine Engineering
+
+Responsible for the **Divine Lattice** and the systems that will connect the Mechanus, Modrons, worship and divine energy.
+
+This Directorate is where the boundary between engineering and religion is becoming increasingly unclear.
+
+### Directorate of Fuel
+
+Responsible for providing enough energy to power both Los and the Mechanus.
+
+It oversees the **Aquatic Energy Office**, **Arcane Fuel Office**, **Elemental Furnace Authority**, **Celestial Energy Office**, **Soul Furnace Division** and **Infernal Containment Division**.
+
+The Directorate of Fuel is becoming one of the most politically important organisations in the city because the Mechanus requires increasingly enormous quantities of energy.
+
+---
+
+# HIGH SEAT OF CIVIC ORDER
+
+### Directorate of Law
+
+Responsible for policing and criminal investigations.
+
+### Directorate of Courts
+
+Responsible for the city's legal system.
+
+### Directorate of Citizenship
+
+Controls citizenship, immigration, identification and residency.
+
+### Directorate of Public Works
+
+Responsible for sanitation, roads, transport and general maintenance.
+
+### Directorate of Internal Security
+
+Deals with threats from within Los, including political extremism, sabotage and suspected infiltrators.
+
+---
+
+# HIGH SEAT OF CONTINUANCE
+
+This High Seat is deliberately more difficult to understand.
+
+Much of its structure is classified, and ordinary citizens are not necessarily aware of exactly which Directorates exist beneath it.
+
+### Directorate of Continuance Security
+
+Investigates threats to the Mechanus project.
+
+### Directorate of Counter-Infernal Operations
+
+Tracks suspected agents of Hellus and investigates infernal influence.
+
+### Directorate of Strategic Intelligence
+
+Collects information from throughout Los and the world beyond.
+
+### Directorate of Internal Affairs
+
+Investigates corruption within the government itself.
+
+This Directorate has the authority to investigate members of other Directorates, which makes it both feared and deeply resented.
+
+---
+
+# THE DIRECTORATES IN DAILY LIFE
+
+Most people will never meet a High Seat.
+
+Most will never meet a member of the Council.
+
+They are much more likely to interact with a **Directorate**.
+
+A farmer will know the Directorate of Agriculture.
+
+A merchant will know the Directorate of Trade.
+
+An adventurer will know the Directorate of Expeditionary Forces.
+
+A soldier will know the Directorate of Military Affairs.
+
+An artificer will probably know the Directorate of Manufacturing or Arcane Integration.
+
+A researcher might spend their entire career working for one of the Mechanus Directorates.
+
+This means that Directorates have developed their own cultures, rivalries and reputations.
+
+The Directorate of Fuel might hate the Directorate of Industry because Industry constantly demands more energy.
+
+The Directorate of Modron Production might distrust the Directorate of Primus because Primus researchers keep asking questions about Modron consciousness.
+
+The Directorate of Provision might resent the Mechanus because its demands for materials constantly interfere with food production.
+
+The Directorate of Civic Order might believe everyone else is dangerously irresponsible.
+
+And the Directorate of Continuance probably knows things about all of them that nobody else does.
+
+---
+
+# DEPARTMENTS AND BUREAUS
+
+Each Directorate is divided into **Departments**, which specialise in particular areas of work.
+
+Departments are then divided into **Bureaus**, which handle the day-to-day administration.
+
+For example:
+
+**High Seat of the Mechanus**  
+→ **Directorate of Modron Production**  
+→ **Behavioural Department**  
+→ **Bureau of Cognitive Assessment**
+
+Or:
+
+**High Seat of Provision**  
+→ **Directorate of Water**  
+→ **Water Processing Department**  
+→ **Purification Bureau**
+
+This makes the government enormous.
+
+It is entirely possible for someone to work for Los for their entire life and never interact with anyone above their own Directorate.
+
+---
+
+# THE DISTRICT AUTHORITIES
+
+Each section of Los has its own local authority responsible for managing everyday life.
+
+They handle housing, local security, markets, sanitation, transport, food distribution and local disputes.
+
+They answer to the appropriate Directorates but have some freedom to manage their own districts.
+
+This becomes increasingly complicated as you move down the city.
+
+Haven's district authorities are heavily bureaucratic and closely monitored.
+
+The Upper Rim is much more influenced by guilds, adventurers and local businesses.
+
+The Plate is dominated by agricultural and industrial authorities.
+
+The Rocks are effectively outside the system.
+
+---
+
+# THE ROCKS
+
+The Rocks are not officially governed by Los.
+
+The Council considers them an unofficial settlement that has developed beneath the city and would, in theory, like to bring it back under proper authority.
+
+In reality, the Rocks have developed their own systems of power.
+
+Criminal guilds, merchants, mercenaries, exiles, old elven families and community leaders all compete for influence.
+
+There is no single ruler.
+
+Different areas of the Rocks are controlled by different groups.
+
+The government occasionally sends Civic Order officers into the Rocks, but their authority is limited and they rarely remain there for long.
+
+The Rocks therefore represent the one major part of Los that the Council does not truly control.
+
+---
+
+# THE GOVERNMENT IN SIMPLE TERMS
+
+**Council of Mackerbia**  
+The people who decide the overall direction of Los.
+
+↓
+
+**Seven High Seats**  
+The people responsible for the major areas of government.
+
+↓
+
+**Directorates**  
+Large organisations responsible for specific areas of work.
+
+↓
+
+**Departments**  
+Specialised divisions within each Directorate.
+
+↓
+
+**Bureaus**  
+The people handling the actual day-to-day administration.
+
+↓
+
+**District Authorities**  
+The people managing individual areas of Los.
+
+↓
+
 **Citizens**
 
-And underneath all of that:
+The system looks extremely organised from the outside.
 
-**The Rocks.**
+In reality, it is a massive collection of competing organisations that all believe they are doing what is best for Los.
 
-The important thing is that these layers aren't just arbitrary levels of government.
+And that is where a lot of the city's problems come from.
 
-They represent the way the city thinks about its people.
+The Mechanus needs more resources.
 
-The One Above Haven represents **authority**.
+The military needs more weapons.
 
-Haven represents **knowledge**.
+The Plate needs more food.
 
-The Upper Rim represents **labour and action**.
+The Fuel Directorate needs more materials.
 
-The Plate represents **survival**.
+The researchers need more funding.
 
-The Rocks represent **everything the city has rejected**.
+The Council needs more control.
 
----
+Everyone has a legitimate reason.
 
-# THE MAJOR POLITICAL FACTIONS
-
-## The Preservationists
-
-They want the Mechanus completed as originally intended.
-
-The purpose is to save civilisation.
-
-They are increasingly worried that the project is changing into something else.
-
-## The Ascensionists
-
-They believe the Mechanus should become more than a prison.
-
-They want Primus to become a cosmic power capable of imposing perfect order.
-
-They are essentially creating a new religion while insisting they are conducting science.
-
-## The Militarists
-
-They believe Los is running out of time.
-
-They want wartime control over the city and the fastest possible completion of the Mechanus.
-
-## The Engineers
-
-They mostly don't care about the politics.
-
-They just want to solve the problem.
-
-The problem is that they are slowly discovering that the problem isn't mechanical.
-
-It is philosophical.
-
-## The Shadar-Kai
-
-Their goal predates the Mechanus.
-
-They want Hellus conquered.
-
-To them, the Mechanus is potentially the ultimate weapon.
-
-Some want Primus to serve the Shadar-Kai.
-
-Others are starting to realise that creating an artificial god is probably a terrible idea.
-
-## The Opportunists
-
-Politicians, merchants and industrialists who have realised that the Continuance is the greatest economic opportunity in history.
-
-They are becoming incredibly wealthy from the project.
-
-## The Infernal Conspirators
-
-Agents of Hellus operating inside Los.
-
-Some are obvious cultists.
-
-Others are engineers, merchants, scientists, soldiers or politicians.
-
-Some might genuinely believe they are helping Los.
-
-They have simply become convinced that Hellus is inevitable.
-
----
-
-# THE CENTRAL PROBLEM
-
-Everyone in Los agrees on one thing:
-
-**Hellus has to be stopped.**
-
-Nobody agrees on what happens after that.
-
-The Preservationists want to save the world.
-
-The Militarists want to destroy Hell.
-
-The Shadar-Kai want to conquer Hell.
-
-The Engineers want to complete the Mechanus.
-
-The Ascensionists want to create Primus.
-
-The Modron researchers want to give Primus servants.
-
-The priests want to give Primus worshippers.
-
-The Council wants to give Primus purpose.
-
-And the people in the Rocks are asking:
-
-> **"What happens when Primus decides that we are the problem?"**
-
----
+**There simply isn't enough to give everyone what they want.**

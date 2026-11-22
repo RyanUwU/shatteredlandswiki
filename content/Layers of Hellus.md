@@ -11,4 +11,4 @@
 # The Sisters of Self;
 ![[Acedia the Slothful]]
 ![[Avaritia the Greedy]]
-![[& Agulia the Gluttonous]]
+![[Agulia the Gluttonous]]
