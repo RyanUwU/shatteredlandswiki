@@ -1,0 +1,3 @@
+# ![[kuro.Avatar.webp|300]] Backstory;
+
+A drow elf fallen from grace and helped by some less than favourable individuals, Kuro turned to a life of crime in order to get by. Finding himself stuck in this unhealthy lifestyle, he decided to embrace it and survive the best he can by himself, not trusting others. one day Kuro found himself on the surface and has taken to a nocturnal lifestyle unless necessary.

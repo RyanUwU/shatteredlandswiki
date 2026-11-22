@@ -1,0 +1,1 @@
+![[skrunk.Avatar.webp]]
