@@ -4,7 +4,7 @@ The Name of the Empire [[Odette]] was a part of/served for was the;
 The Queen that [[Odette]] Slept with was [[Queen Signakla]]
 The King was one; [[King Adru'na]]
 
-Monastery was once the temple in HES, and has *recently* been converted to the temple of [[Skrunk]]
+Monastery was once the temple in HES, and has *recently* been converted to the temple of [[Campaigns/C0 - A Lost Wish/NPC Characters/Skrunk]]
 
 There's a wizard school in the North of the [[Kingdom of Stroi]] called the [[Wrog School of Wizardry]]
 The Eringorn Family are nobles in the town of [[Sunum]]

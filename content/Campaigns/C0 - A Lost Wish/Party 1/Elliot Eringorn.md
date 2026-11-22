@@ -12,5 +12,5 @@ Yet, beneath this outward resolve lies a longing for belonging and kinship. Estr
 ~240 years old
 
 
-([[Skrunk]] now **permanently** has a funky little purple wizard hat on its head)
+([[Campaigns/C0 - A Lost Wish/NPC Characters/Skrunk]] now **permanently** has a funky little purple wizard hat on its head)
 

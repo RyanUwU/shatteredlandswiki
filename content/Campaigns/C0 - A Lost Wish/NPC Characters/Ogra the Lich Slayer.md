@@ -1,1 +1,4 @@
+---
+publish: "true"
+---
 Ogra, is an ogre skeleton once enlisted to the side of an ancient lich, but with the blessing on an unknown god, they broke their bonds and went on a mass lich killing spree for hundreds of years, before being caught by the [[Dreaming Lich]] and trapped to have its divine energy siphoned from its body,

@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 ### Gemalon Episode 1 : A Grand Fall
 Fell out of the portal opened by [[Khurish]] into The [[Forest of Tekumto]]
 [[Whiskey]] fell to his death, Met [[Lerissa]] who saved [[Whiskey]]

@@ -37,4 +37,4 @@ after progressing to the crystal on the left, revealing part of their backstory,
 ---
 In [[The Dream Engine]] the party fought one of the liches, and then got [[The Wish Spell]] for each of their characters
 
-all wishes can now be found compiled here [[Compiled Wishes]]
+all wishes can now be found compiled here [[Wishes]]
