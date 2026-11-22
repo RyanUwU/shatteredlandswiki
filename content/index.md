@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 Hello and welcome to the Shattered Lands Wiki!
 this will hopefully be where you can look up established details about the setting and important links to documents
 
