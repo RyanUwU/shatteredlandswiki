@@ -1,0 +1,1 @@
+Fairy Dust is an incredibly potent drug for those who inhabit the material plane, although it isn't easy to come by, as it requires one of the Fey royalty to distil it from the innate arcana of the Feywild.

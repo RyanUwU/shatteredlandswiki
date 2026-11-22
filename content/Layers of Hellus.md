@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 # Throne of Ego
 ![[Superbia the angel of Pride]]
 # Plane of Ego

@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 # ![[aikran.AvatarSlY08Ot1d3Q5wXFe.webp]]Backstory;
 
 Raised to trust his God undoubtfully, he isn't aware of the corruption his God is manipulating him into. His blind trust in his God results in him not suspecting that anything wrongful could be happening.

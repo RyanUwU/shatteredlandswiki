@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 # ![[120291397-Nariel-Galanodel.jpeg]] Backstory;
 
 Nariel Galanodel was born in a secluded elven village nestled deep within a dense and mysterious forest. However, the tranquility of his childhood was shattered when troubles erupted between the elves and dark forces seeking to corrupt the forest. His village was ravaged, and the survivors scattered. Nariel, still very young, found himself alone in the abandoned ruins.

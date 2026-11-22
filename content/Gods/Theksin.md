@@ -9,6 +9,7 @@ domains:
 anchor:
 location:
 status: Active
+publish: "true"
 ---
 
 # ⛩️ Theksin

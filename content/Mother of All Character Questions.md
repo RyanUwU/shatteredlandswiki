@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 ## Introduction Questions
 
 Let's start at the top with some basic survey questions. If your players build flat player characters that focus more on numbers than plot, then consider asking them some of these questions during a Session 0 or as your campaign wends onwards to kick things off.

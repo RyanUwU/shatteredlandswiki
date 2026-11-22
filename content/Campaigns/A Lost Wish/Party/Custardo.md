@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 
 # ![[custardo_the_wise.Avatar.webp|300]] Backstory;
 

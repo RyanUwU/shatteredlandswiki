@@ -1,6 +1,7 @@
 ---
 aliases:
   - Echo Menelaus
+publish: "true"
 ---
 
 ![[echo.Avatar.webp|300]]

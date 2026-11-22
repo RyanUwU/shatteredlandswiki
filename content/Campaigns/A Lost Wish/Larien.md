@@ -1,0 +1,2 @@
+Larien is an orange, interplanar rock, that has the ability to open and manipulate portals between planes at will.
+as of the events that caused the [[Generation of the Lost]] Larien is now fused to the Skeleton of one [[Echo Magicstone]] 

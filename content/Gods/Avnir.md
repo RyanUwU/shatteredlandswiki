@@ -9,6 +9,7 @@ domains:
 anchor:
 location:
 status: Split
+publish: "true"
 ---
 
 # ⛩️ Avnir
