@@ -49,11 +49,8 @@ plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
-      defaultDateType: modified
-      priority:
-        - frontmatter
-        - git
-        - filesystem
+      theme: "abecedarium"
+      mode: "both"
     order: 10
   - source: "@quartz-community/syntax-highlighting"
     enabled: true
