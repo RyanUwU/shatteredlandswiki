@@ -1,16 +1,13 @@
 ---
 publish: "true"
 ---
-Hello and welcome to the Shattered Lands Wiki!
-this will hopefully be where you can look up established details about the setting and important links to documents
-
+# The Shattered Lands Wiki
 ## Web Pages
 [Official Homebrewery Doc ](http://player-guide.shattered-lands.fyi)
 [D&D Bingo!](https://voyagers.bingo.shattered-lands.fyi/)
 [Foundry VTT Access](https://foundry-vtt.shattered-lands.fyi/)
 [Campaign Shop](https://shop.shattered-lands.fyi/)
-
-# Shattered Lands Map!
+## Shattered Lands Map!
 <iframe
   src="https://azgaar.github.io/Fantasy-Map-Generator/?maplink=https%3A%2F%2Fraw.githubusercontent.com%2FRyanUwU%2Fshatteredlandswiki%2Fv5%2Fquartz%2Fstatic%2Fmaps%2Fshattered-lands.map&view=1"
   title="The Shattered Lands Interactive Map"
@@ -20,3 +17,4 @@ this will hopefully be where you can look up established details about the setti
   loading="lazy"
   allowfullscreen>
 </iframe>
+(Note: Religious, Military, Goods/Production & Trade Data is Placeholder)
