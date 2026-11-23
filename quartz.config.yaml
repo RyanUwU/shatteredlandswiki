@@ -49,8 +49,11 @@ plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
-      theme: "abecedarium"
-      mode: "both"
+      defaultDateType: modified
+      priority:
+        - frontmatter
+        - git
+        - filesystem
     order: 10
   - source: "@quartz-community/syntax-highlighting"
     enabled: true
@@ -104,7 +107,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: its-theme
+      theme: abecedarium
       mode: both
       variation: ttrpg-dnd
   - source: "@quartz-community/explicit-publish"
