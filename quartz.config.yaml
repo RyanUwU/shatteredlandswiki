@@ -107,7 +107,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: Minimal
+      theme: bureau
       mode: both
       variation: ttrpg-dnd
   - source: "@quartz-community/explicit-publish"
