@@ -1,5 +1,5 @@
 ---
-publish: "true"
+publish: "false"
 ---
 ### Gemalon Episode 1 : A Grand Fall
 Fell out of the portal opened by [[Khurish]] into The [[Forest of Tekumto]]
